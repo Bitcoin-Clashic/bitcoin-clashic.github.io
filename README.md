@@ -1,5 +1,6 @@
 # Bitcoin Clashic
 ## Satoshi's True Vision communiqué officiel
+
 Thanks for adhering to the principles of the True Vision of Satoshi.
 
 --
