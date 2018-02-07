@@ -5,7 +5,9 @@
 
 p.release {
   color: white;
-  padding-top: .5em;
+  margin-top: 0.5em;
+  font-size: 1.2em;
+  background-color: #00000082;
   font-size: 1.2em;
 }
 
